@@ -1,0 +1,91 @@
+body{
+background-image: linear-gradient(rgb(255, 255, 255),rgb(77, 77, 77),black);
+}
+
+.heading{
+    margin:0;
+    width: 100%;
+    box-shadow: 5px 5px 5px rgb(134, 134, 134);
+    font-family: "Sudha Murthy's life struggles", cursive;
+    font-size: 50px;
+}
+
+.fp{
+    font-size:x-large;
+}
+
+.bio{
+    background-color: transparent;
+   border-radius: 30px; 
+   margin-bottom: 20px;
+}
+
+.image{
+    border-radius: 30px; 
+    width: 100px;
+    height: 70px;
+ }
+
+.a{
+    background-color: transparent;
+    height: min-content;
+}
+
+.qMark{
+    font-size: 50px;
+}
+
+.quote{
+    font-size: 30px;
+}
+
+.qEnd{
+    font-size: 10px;
+}
+
+span {
+    float: left;
+}
+
+div {
+    margin-bottom: 30px;
+}
+
+.travel_mainDiv
+{
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  border: 1px solid #c7c7c7;
+
+}
+
+.imgB{
+    width: 200px;
+    height: 170px;
+}
+
+.bio{
+    font-size: x-large;
+}
+
+.travel_mainDiv img
+{
+  width: 100%;
+  height:300px;
+} 
+
+.travel_mainDiv hr
+{
+    width: 100%; 
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p
+{
+margin-left: 20px;
+}
+
+
+.img-responsive{
+    border-radius: 30px;
+}
